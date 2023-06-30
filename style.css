@@ -1,0 +1,114 @@
+*{
+    margin: 0px;
+    font-family: 'inter';
+}
+
+#title{
+    background-color: #303030;
+    padding: 100px;
+}
+
+#FirstTitle{
+    margin: 206px 354px 20px 62px;
+    color: #FFF;
+    font-size: 60px;
+    font-style: normal;
+    font-weight: 600;
+    line-height: 72px;
+    letter-spacing: -1.5px;
+}
+
+#SecondTitle{
+    margin: 20px 354px 149px 62px;
+    color: #FFF;
+    font-size: 20px;
+    font-style: normal;
+    font-weight: 500;
+    line-height: 28px;
+}
+
+#icons{
+    background-color: #F9F9F9;
+    display: grid;
+    grid-auto-flow: column;
+    columns: auto;
+}
+
+#empreendimentos{
+    margin: 96px 99px 66px 171px;
+}
+
+#anos{
+    margin: 96px 99px 66px 99px;
+}
+
+#metros{
+    margin: 96px 64px 45px 99px;
+}
+
+#PrincipalText{
+    color: #000000;
+}
+
+#text{
+    margin: 200px 64px 314px 77px;
+}
+
+#example{
+    margin: 50px 0px 92px 64px;
+}
+
+#formulary{
+    background-color: #303030;
+    padding-top: 87px;
+    text-align: center;
+}
+
+#TitleFormulary{
+    color: #FFFFFF;
+    font-size: 38px;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 150%;
+    margin-bottom: 24px;
+}
+
+input{
+    width: 508px;
+    height: 72px;
+    border-radius: 10px;
+    background-color: #FFF;
+    border: 0px;
+    color: rgba(0, 0, 0, 0.30);
+    font-size: 24px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    margin: 31px;
+    padding-left: 30px;
+}
+
+button{
+    width: 286px;
+    height: 74px;
+    border-radius: 10px;
+    background: #C07212;
+    color: #FFF;
+    font-size: 30px;
+    font-family: Raleway;
+    font-style: normal;
+    font-weight: 700;
+    line-height: 30px;
+    margin-top: 44px;
+    margin-bottom: 30px;
+    cursor: pointer;
+}
+
+button:hover{
+    background-color: #ee8709;
+    color: #FFFFFF;
+    transform: translateY(-7px);
+    transition-duration: 1s;
+    box-shadow:0px 15px 20px 0px #ffffff85;
+}
